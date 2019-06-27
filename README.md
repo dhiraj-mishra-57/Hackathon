@@ -1,4 +1,4 @@
-# Hackathon #
+# Hackathons #
 
 **Predict The Flight Ticket Price Hackathon**
 
